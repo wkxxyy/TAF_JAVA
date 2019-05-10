@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<services>
+	<service name="AIEvaluationServerObj">
+		<home-api>com.qq.aievaluation.aievaluation.DemoServant</home-api>
+		<home-class>com.qq.aievaluation.aievaluation.impl.DemoServantImpl</home-class>
+	</service>
+</services>

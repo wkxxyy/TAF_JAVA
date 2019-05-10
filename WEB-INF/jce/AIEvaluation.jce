@@ -1,0 +1,9 @@
+
+module AIEvaluation
+{
+
+	interface Demo
+	{
+		int test();
+	};
+};

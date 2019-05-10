@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="commons-lang3-3.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/commons-lang3-3.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/commons-io-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/fzlog-ext-taf-1.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/javax.servlet-api-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/taf-proxy-3.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/taf-server-3.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/distributedContext-1.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/fzlog-api-1.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/fzlog-base-1.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/j4log_lite-1.0.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/nami_core-1.0.2-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/distributedContext-1.0.0-SNAPSHOT.jar!/src" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/fzlog-api-1.0.0-SNAPSHOT.jar!/src" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/fzlog-base-1.0.0-SNAPSHOT.jar!/src" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/j4log_lite-1.0.0-SNAPSHOT.jar!/src" />
+      <root url="jar://$PROJECT_DIR$/WEB-INF/lib/nami_core-1.0.2-SNAPSHOT.jar!/src" />
+    </SOURCES>
+  </library>
+</component>
